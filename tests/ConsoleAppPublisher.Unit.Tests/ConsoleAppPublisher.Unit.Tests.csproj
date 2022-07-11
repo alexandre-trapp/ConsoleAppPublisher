@@ -21,8 +21,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\App\ConsoleAppPublisher.csproj" />
-  </ItemGroup>
-
 </Project>
